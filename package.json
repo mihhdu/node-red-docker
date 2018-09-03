@@ -29,7 +29,8 @@
         "node-red-node-base64": "*",
         "node-red-node-suncalc": "*",
         "node-red-node-random": "*",
-	"Orchestrator-Red": "DeanMauro/Orchestrator-RED#master"
+	"node-red-contrib-uipath-orchestrator": "DeanMauro/Orchestrator-RED#master",
+	"node-red-contrib-ccapi": "mihhdu/node-red-contrib-ccapi#master"
     },
     "engines": {
         "node": "4.*.*"
