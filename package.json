@@ -33,6 +33,6 @@
 	"node-red-contrib-ccapi": "mihhdu/node-red-contrib-ccapi#master"
     },
     "engines": {
-        "node": "4.*.*"
+        "node": "8.*.*"
     }
 }
