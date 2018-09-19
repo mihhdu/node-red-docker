@@ -24,12 +24,12 @@
         }
     ],
     "dependencies": {
-        "node-red": "0.19.2",
+        "node-red": "0.19.4",
         "node-red-node-msgpack": "*",
         "node-red-node-base64": "*",
         "node-red-node-suncalc": "*",
         "node-red-node-random": "*",
-	"node-red-contrib-uipath-orchestrator": "DeanMauro/Orchestrator-RED#master",
+	"@uipath/node-red-contrib-uipath-orchestrator": "*",
 	"node-red-contrib-ccapi": "mihhdu/node-red-contrib-ccapi#master"
     },
     "engines": {
